@@ -1,48 +1,46 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby minimal starter
-</h1>
+# Git Introduction
 
-## 🚀 Quick start
+# Commands
 
-1.  **Create a Gatsby site.**
+## Basic
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+- git clone
+- git add
+- git commit
+- git checkout
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
+## Advantage
 
-2.  **Start developing.**
+- git merge
+- git rebase
+- git cherry-pick
+- git restore
+- git revert
 
-    Navigate into your new site’s directory and start it up.
+# Managing changes
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
+## Shared workflow: Collaboration
 
-3.  **Open the code and start customizing!**
+How to use Git for a tool to improve collaboration?
+How to manage changes and how to work side by side, keep track of of everyone's work, with confidence
 
-    Your site is now running at http://localhost:8000!
+Most common branch structure
 
-    Edit `src/pages/index.js` to see your site update in real-time!
+- main, test, dev + Feature branching
+- single main branch, feature branching, tags & releases
 
-4.  **Learn more**
+## Continuous integration & delivery
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+Automations in next level
 
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+## Automation: Hooks & Actions
 
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+Automation is key to success
 
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+# Extending your range: Dependencies & third parties libraries
 
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+Never invent a new bicicle if you only need a wheel, which already exists
 
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+## Npm & Yarn
+
+Source of sharing, collaborative mind.

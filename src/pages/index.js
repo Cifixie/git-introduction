@@ -21,10 +21,6 @@ const IndexPage = () => {
           🎉🎉🎉
         </span>
       </Heading>
-      <p>And welcome</p>
-      <Tiny>
-        You were selected to be the only participant of our tiny course
-      </Tiny>
     </main>
   );
 };

@@ -4,18 +4,22 @@ import styled from "styled-components";
 const Tiny = styled.small({
   fontSize: "0.75rem",
 });
+const Heading = styled.h1({
+  span: {
+    marginLeft: "1ch",
+  },
+});
 
 const IndexPage = () => {
   return (
     <main>
       <title>Introduction to Git</title>
-      <h1>
+      <Heading>
         Congratulations
-        <br />
         <span role="img" aria-label="Party popper emojis">
           🎉🎉🎉
         </span>
-      </h1>
+      </Heading>
       <p>And welcome</p>
       <Tiny>
         You were selected to be the only participant of our tiny course

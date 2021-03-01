@@ -5,6 +5,7 @@ const Tiny = styled.small({
   fontSize: "0.75rem",
 });
 const Heading = styled.h1({
+  color: "red",
   span: {
     marginLeft: "1ch",
   },

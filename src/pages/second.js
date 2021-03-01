@@ -16,7 +16,7 @@ const SecondPage = () => {
       <PunainenOtsikko>Otsikko pitäisi olla punainen</PunainenOtsikko>
       <IsoPunainenOtsikko>Isolla otsikko</IsoPunainenOtsikko>
       <p>Koodataan katjan kanssa</p>
-      <p>Kivaa koodata!</p>
+      <p>Superkivaa koodata, koska parasta ikinä!</p>
     </main>
   );
 };
